@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gmodule.h": "c",
+        "fat_filename_util.h": "c",
+        "assert.h": "c"
+    }
+}
